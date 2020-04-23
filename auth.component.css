@@ -1,0 +1,14 @@
+.form{
+background-color: lime;
+ margin:28 20 28 20;
+height:40%;
+
+}
+.input-field{
+    color:indigo;
+
+}
+.input{
+    text-align: center;
+    background-color: beige;
+}
